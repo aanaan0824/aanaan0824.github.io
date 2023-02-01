@@ -2,7 +2,7 @@
 
 
 
-Six months ago I wrote these words with the utmost enthusiasm, and then I realized that I was indeed too young and too naive.
+Six months ago, I wrote these words with the utmost enthusiasm, and then I realized I was too young and naive.
 
 
 
@@ -10,7 +10,7 @@ However, it doesn't matter. People are always disenchanted with the world and co
 
 
 
-This site is where I store my work in progress, my thoughts on reality, and my endless fantasies.
+This site stores my work in progress, thoughts on reality, and endless fantasies.
 
 
 
