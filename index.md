@@ -22,13 +22,13 @@ This site stores my work in progress, thoughts on reality, and endless fantasies
 
 
 
-> *TRUE LOVE IS POSSIBLE
+> *TRUE LOVE IS POSSIBLE*
 >
-> ONLY IN THE NEXT WORLD --FOR NEW PEOPLE
+> *ONLY IN THE NEXT WORLD --FOR NEW PEOPLE*
 >
-> IT IS TOO LATE FOR US
+> *IT IS TOO LATE FOR US*
 >
-> WREAK HAVOC ON THE MIDDLE CLASS*
+> *WREAK HAVOC ON THE MIDDLE CLASS*
 
 
 
