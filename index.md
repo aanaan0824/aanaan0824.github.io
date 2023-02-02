@@ -2,7 +2,15 @@
 layout: default
 ---
 
-# A Brief Introduction
+## A Brief Introduction
+
+
+
+# Home Page
+
+
+
+## A Brief Intro
 
 
 
@@ -40,7 +48,7 @@ I will fight until the last moment.
 
 
 
-# Work in Progress
+## Work in Progress
 
 
 
@@ -52,7 +60,7 @@ I will fight until the last moment.
 
 
 
-# 找点乐子
+## 找点乐子
 
 
 
