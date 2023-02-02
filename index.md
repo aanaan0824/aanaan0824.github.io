@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## A Brief Introduction
-
 
 
 # Home Page
