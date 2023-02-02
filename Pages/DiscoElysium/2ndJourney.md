@@ -2,6 +2,10 @@
 
 
 
+![3ec09b49d784557e3c14131aa551b9c](image\3ec09b49d784557e3c14131aa551b9c.png)
+
+
+
 This is a page where I record my second journey in Martinaise. If you don't know where it is, buy a Disco Elysium on steam. You'll come back and thank me.
 
 
