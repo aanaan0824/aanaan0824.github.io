@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # A Brief Introduction
 
 > A naive sophomore, an economist in the future, a Marxist, and a dreamer.
