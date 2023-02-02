@@ -4,7 +4,9 @@ layout: default
 
 # A Brief Introduction
 
-> A naive sophomore, an economist in the future, a Marxist, and a dreamer.
+
+
+> *A naive sophomore, an economist in the future, a Marxist, and a dreamer.*
 
 
 
@@ -20,11 +22,13 @@ This site stores my work in progress, thoughts on reality, and endless fantasies
 
 
 
-> TRUE LOVE IS POSSIBLE
+> *TRUE LOVE IS POSSIBLE
+>
 > ONLY IN THE NEXT WORLD --FOR NEW PEOPLE
+>
 > IT IS TOO LATE FOR US
 >
-> WREAK HAVOC ON THE MIDDLE CLASS
+> WREAK HAVOC ON THE MIDDLE CLASS*
 
 
 
@@ -36,4 +40,23 @@ I will fight until the last moment.
 
 
 
-（（希望是干燥的风
+# Work in Progress
+
+
+
+**You know I haven't got any!** 😭
+
+
+
+ OK, I'm trying. Anyway, the ddl for Xinghuo Program is getting closer.
+
+
+
+# 找点乐子
+
+
+
+[The Twelfth Night at *Whirling-In-Rags*]: ./Pages/DiscoElysium/2ndJourney.md	"."
+
+
+
