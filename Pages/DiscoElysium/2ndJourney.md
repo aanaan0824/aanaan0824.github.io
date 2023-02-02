@@ -22,7 +22,7 @@ On my first journey, I chose the Thinker version. Although LOGIC and ENCYCLOPEDI
 
 
 
-So, this time I take the route of the Sensitive. Since I have known most of the story, I'm in no hurry to finish the game. So, I have time to perfect my travel notes. I hope I could gain a lot from this trip, no matter it is thinking about the source of this story or spiritual comfort.
+So, this time I take the route of the Sensitive. Since I have known most of the story, I'm in no hurry to finish the game, which provide me with enough time to perfect my travel notes. I hope I could gain a lot from this trip, no matter it is thinking about the source of this story or spiritual comfort.
 
 
 
