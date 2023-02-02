@@ -56,7 +56,7 @@ I will fight until the last moment.
 
 
 
-[The Twelfth Night at *Whirling-In-Rags*]: ./Pages/DiscoElysium/2ndJourney.md	"."
+[The Twelfth Night at *Whirling-In-Rags*]: ./Pages/DiscoElysium/2ndJourney.html	"."
 
 
 
