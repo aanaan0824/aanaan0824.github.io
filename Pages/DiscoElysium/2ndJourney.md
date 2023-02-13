@@ -26,8 +26,26 @@ So, this time I take the route of the Sensitive. Since I have known most of the 
 
 
 
+<img src="C:\Users\AQ\AppData\Roaming\Typora\typora-user-images\image-20230211184408021.png" alt="image-20230211184408021" style="zoom: 25%;" />
+
+
+
 If you are a fan of Disco, come on! Don't hesitate to have fun with me! 
 
 
 
 o(*￣▽￣*)ブ
+
+
+
+## Day 1
+
+<img src="C:\Users\AQ\AppData\Roaming\Typora\typora-user-images\image-20230211184137864.png" alt="image-20230211184137864" style="zoom:50%;" />
+
+<img src="C:\Users\AQ\AppData\Roaming\Typora\typora-user-images\image-20230211184639745.png" alt="image-20230211184639745" style="zoom: 50%;" />
+
+<img src="C:\Users\AQ\AppData\Roaming\Typora\typora-user-images\image-20230211185144894.png" alt="image-20230211185144894" style="zoom:50%;" />
+
+<img src="C:\Users\AQ\AppData\Roaming\Typora\typora-user-images\image-20230211202256168.png" alt="image-20230211202256168" style="zoom:50%;" />
+
+<img src="C:\Users\AQ\AppData\Roaming\Typora\typora-user-images\image-20230211203304808.png" alt="image-20230211203304808" style="zoom:50%;" />
