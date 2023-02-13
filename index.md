@@ -58,6 +58,10 @@ I will fight until the last moment.
 
 
 
+Some notes on learning R language: [Learning R Language](https://annan21.notion.site/Learning-R-Language-8b2c714a870c410f80a7582343881a5a).
+
+
+
 ## 找点乐子
 
 
