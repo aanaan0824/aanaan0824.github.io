@@ -76,6 +76,10 @@ Some notes in Chinese Society: [Chinese Society](https://annan21.notion.site/bdc
 
 
 
+Some thoughts about my SRT program: [bank credit + Bartik IV](./Pages/Bank_Firm_Credit___Bartik.pdf).
+
+
+
 I gradually find that most of my work could not be posted on this website. 🤔 I will store those inconsequential things here then. Umm... Some day when I finally write my own paper I will put them on the webpage.
 
 
