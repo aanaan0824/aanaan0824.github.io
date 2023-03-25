@@ -50,7 +50,7 @@ I will fight until the last moment.
 
 
 
-Here is my [CV](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f522eca9-9aa1-4573-964d-14fbbbbf41ed/Anns_Resume.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230323%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230323T105336Z&X-Amz-Expires=86400&X-Amz-Signature=f9e65d7d193e8584d85847815c5ff1a92ab0e22e580af37617a395753fdb15ea&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Ann%27s%2520Resume.pdf%22&x-id=GetObject).
+Here is my [CV](./Pages/CV_of_Qi_An.pdf).
 
 
 
